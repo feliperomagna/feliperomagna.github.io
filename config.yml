@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "Atualmente, em 2025, sou doutorando em Música pela UFMG. Minha pesquisa envolve uma ideia de apropriação técno-poética de ferramentas de IA para a criação musical. Tenho produzido alguns trabalhos artísticos que podem ser conferidos na seção [Works]{% link works.markdown %}. Também tenho mestrado em Comunicação audiovisual pela Universidade Anhembi Morumbi, efetuando uma pesquisa de resgate do filme "Cidade Mulher (1936)" produzido pelo Humberto Mauro e Carmen Santos, e com trilha sonora original do Noel Rosa. Fiz uma reconstituição desse filme a partir de relatos de jornais e da música, já que o mesmo pegou fogo em um incêndio na produtora na década de 1950. Além do curso de Jazz que participei em Portugal (tive que sair do curso no último ano), me graduei em Produção Musical pela Anhembi Morumbi e fiz uma pós em Educação Musical pela faculdade Paulista de Artes, todas em São Paulo. Atuo como professor de música no Instituto Federal de Rondônia - IFRO desde 2017. Além das aulas também desenvolvo pesquisas em música e tecnologia, educação musical, comunicação, computação musical e prática musical coletiva. No meu currículo [Lattes](http://lattes.cnpq.br/7456184811841367) é possível ter acesso a todas essas informações acadêmicas de maneira mais detalhada. Se tiver interesse em projetos e pesquisas, pode me enviar um [e-mail](mailto:liperomagna47@hotmail.com) ."
+          title: Felipe Romagna
+          subtitle: "Este é um espaço para compartilhar meus trabalhos, pesquisas e diversidades como leituras, músicas e reflexões."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -64,8 +64,8 @@ params:
               url: papers/
             - name: Data
               url: data/
-            - name: Books
-              url: books/
+            - name: Works
+              url: works/
             - name: Courses
               url: courses/
             - name: Tags
