@@ -15,31 +15,29 @@ menu:
         - name: Works
           url: works/
           weight: 5 
-        # - name: Papers
-        #   url: papers/
-          weight: 2
-        # - name: Courses
-        #   url: courses/
-          weight: 3
         - name: Papers
           url: papers/
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: archive/
           weight: 6
-
+        - name: About
+          url: about/
+        - name: Welcome
+          url: welcome/
+          weight: 1
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Felipe Romagna's research papers, books, course materials, data, curriculum vitae, and contact information."
     author: Felipe Romagna
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
-    disableAnchoredHeadings: true
+    disableAnchoredHeadings: false
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
@@ -50,55 +48,45 @@ params:
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
-    comments: false
+    comments: true
     math: true
     profileMode:
           enabled: true
           title: Felipe Romagna
-          subtitle: "Este é um espaço para compartilhar meus trabalhos, pesquisas e diversidades como leituras, músicas e reflexões."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          subtitle: "Sou músico, professor e pesquisador. Este espaço funciona como um repositório de trabalhos, pesquisas e também de textos que gosto de compartilhar a respeito de diversos assuntos. <br> *I'm a musician, teacher, and researcher. This space serves as a repository for my work, research, and also texts I like to share on various topics*"
+          # imageUrl: "picture.jpg"
+          # imageWidth: 160
+          # imageHeight: 160
           buttons:
+            - name: "Welcome"
+              url: welcome/
             - name: Works
               url: works/
             - name: Papers
               url: papers/
-            # - name: Works
-            #   url: works/
-            # - name: Courses
-            #   url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
+            - name: Blog
               url: archive/
-            # - name: Blog
-            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: About
+              url: about/
+
 
     socialIcons:
-        # - name: CV
-        #   url: cv.pdf
+        - name: Bluesky
+          url: https://bsky.app/profile/feliperomagna.net
+        - name: Mastodon
+          url: https://mastodon.social/@feliperomagna
+        - name: Instagram
+          url: https://www.instagram.com/feliperomagna/
         - name: Email
           url: mailto:liperomagna47@hotmail.com
-        # - name: Zoom
-        #   url: https://www.zoom.us/my/igelfeld
-        # - name: Location
-        #   url: location/
-        # - name: Office Hours
-        #   url: officehours/
-        # - name: Google Scholar
-        #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/feliperomagna
         - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://substack.com/@feliperomagna?r=5ks8nz&utm_medium=ios&utm_source=profile
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        # - name: Twitter
-        #   url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://www.youtube.com/@FelipeRomagna
 
+        
     assets:
         disableScrollBarStyle: true
     cover:
