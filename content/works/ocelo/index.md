@@ -3,10 +3,10 @@ title: "Ocelo: "
 date: 2024-10-01
 tags: ["IA","musical creation","creative process","audiovisual"]
 author: ["Felipe Romagna"]
-cover:
-    image: "ocelo.jpg"
-    alt: "Modulations of a Butterfly"
-    relative: true
+# cover:
+#     image: "ocelo.jpg"
+#     alt: "Modulations of a Butterfly"
+#     relative: true
 ---
 
 Este trabalho é resultado de um estudo que envolvia programação em Python na música. Inspirado pelo professor Dr. Rogério Vasconcellos, iniciei alguns experimentos utilizando uma ferramenta livre de IA generativa chamada ComfyUI ([workflows aqui](https://github.com/feliperomagna/ocelo)). Minha ideia foi criar uma peça audiovisual que abordasse as transformações da vida de uma borboleta. Minha principal busca foi criar um ambiente visual e sonoro imersivo, com sons filtrados e uma visão microscópica. 

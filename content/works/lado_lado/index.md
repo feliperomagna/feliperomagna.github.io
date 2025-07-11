@@ -3,10 +3,10 @@ title: "Lado a Lado"
 date: 2022-09-06
 tags: ["eurorack"]
 author: ["Felipe Romagna"]
-cover:
-    image: "lado_a_lado.jpg"
-    alt: "Vizualisation of an inner hedgehog"
-    relative: true
+# cover:
+#     image: "lado_a_lado.jpg"
+#     alt: "Vizualisation of an inner hedgehog"
+#     relative: true
 
 ---
 

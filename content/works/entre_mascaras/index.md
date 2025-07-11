@@ -2,10 +2,10 @@
 title: "Entre Máscaras" 
 date: 2023-12-06
 tags: ["live electronics","classical music","performance", "eurorack", "modular synth"]
-cover:
-    image: "entre_mascaras.png"
-    alt: "Vizualisation of an inner hedgehog"
-    relative: true
+# cover:
+#     image: "entre_mascaras.png"
+#     alt: "Vizualisation of an inner hedgehog"
+#     relative: true
 
 ---
 

@@ -2,10 +2,10 @@
 title: "Inconsciente Artificial" 
 date: 2025-02-08
 tags: ["max", "somax", "ia", "ai", "bandoneon", "saxofone", "sonhos"]
-cover:
-    image: "inconsciente_artificial.jpg"
-    alt: "Vizualisation of an inner hedgehog"
-    relative: true
+# cover:
+#     image: "inconsciente_artificial.jpg"
+#     alt: "Vizualisation of an inner hedgehog"
+#     relative: true
 
 ---
 

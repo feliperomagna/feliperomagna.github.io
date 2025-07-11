@@ -2,10 +2,10 @@
 title: "Guerreira das Pedras" 
 date: 2024-06-28
 tags: ["live electronics","openframeworks","performance", "supercollider", "flucoma", "ia", "ai"]
-cover:
-    image: "guerreira_das_pedras.jpeg"
-    alt: "Vizualisation of an inner hedgehog"
-    relative: true
+# cover:
+#     image: "guerreira_das_pedras.jpeg"
+#     alt: "Vizualisation of an inner hedgehog"
+#     relative: true
 
 ---
 

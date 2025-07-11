@@ -3,10 +3,10 @@ title: "Da terra à lua"
 date: 2025-02-06
 tags: ["live electronics","classical music","performance"]
 author: ["Nívea Freitas", "Felipe Romagna", "Wagner Sander"]
-cover:
-    image: "paper1.png"
-    alt: "Da Terra a Lua"
-    relative: true
+# cover:
+#     image: "paper1.png"
+#     alt: "Da Terra a Lua"
+#     relative: true
 
 ---
 

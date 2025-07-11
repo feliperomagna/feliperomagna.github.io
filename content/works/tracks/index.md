@@ -2,10 +2,10 @@
 title: "Outros Trabalhos" 
 date: 2020-02-06
 tags: ["live electronics","classical music","performance", "experimental music", "jazz", "musica brasileira"]
-cover:
-    image: "tracks.jpg"
-    alt: "Vizualisation of an inner hedgehog"
-    relative: true
+# cover:
+#     image: "tracks.jpg"
+#     alt: "Vizualisation of an inner hedgehog"
+#     relative: true
 
 ---
 

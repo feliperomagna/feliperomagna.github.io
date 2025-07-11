@@ -3,10 +3,10 @@ title: "Ruptura"
 date: 2021-12-06
 tags: ["live electronics","modular synth","performance", "eurorack", "analog synth"]
 author: ["Felipe Romagna"]
-cover:
-    image: "ruptura.jpg"
-    alt: "Vizualisation of an inner hedgehog"
-    relative: true
+# cover:
+#     image: "ruptura.jpg"
+#     alt: "Vizualisation of an inner hedgehog"
+#     relative: true
 
 ---
 
