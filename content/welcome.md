@@ -15,7 +15,7 @@ O que posso fornecer de texto em português/inglês é realizado, outras seçõe
 Se preferir, também pode me acompanhar no [Fediverso](https://mastodon.social/@feliperomagna) (e ainda também no Instagram e YouTube) através dos links disponíveis nesta página. 
 
 
-## Welcome
+## Welcome!
 
 
 This space functions as a repository for [works]({{< relref "works/_index.md" >}}), [research]({{< relref "papers.md" >}}), and also for [writings]({{< relref "archive.md" >}}) that I enjoy sharing on various topics (films, books, ideas...). 
