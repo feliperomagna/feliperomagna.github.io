@@ -13,4 +13,6 @@ Resumindo, é neste sentido que resolvi criar essa parte no meu site, uma espéc
 
 O que você vai encontrar neste *blog* é uma visão pessoal e muitas vezes não técnica (como nos casos de comentários de livros de romances), a respeito de diversos assuntos que gosto de compartilhar. 
 
+---
 ## Posts
+---
