@@ -8,6 +8,7 @@ tags: ["max", "somax", "ia", "ai", "bandoneon", "saxofone", "sonhos"]
 #     relative: true
 
 ---
+![](inconsciente_artificial.jpg)
 
 Seria uma máquina capaz de sonhar? Para mim, o ato de improvisar tem uma profunda conexão com os sonhos, e nesta peça a máquina se apropria dos nossos sonhos (Improvisos) para construir o que ela não é capaz de ter, os sonhos da máquina. Utilizamos uma ferramenta chamada Somax2 do ircam_paris. 
 

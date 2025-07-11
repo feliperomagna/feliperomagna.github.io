@@ -9,6 +9,7 @@ author: ["Felipe Romagna"]
 #     relative: true
 
 ---
+![](lado_a_lado.jpg)
 
 “Ando de um lado para outro, dentro de mim. Estou bastante acostumada a estar só, mesmo junto dos outros” (Clarice Lispector)
 Penso que não posso viver sem o outro, mas ao mesmo tempo o universo que crio de uma perspectiva do mundo, é só meu. A arte e o amor são elos, lampejos que tornam possível uma conexão, uma intersecção de mundos. 

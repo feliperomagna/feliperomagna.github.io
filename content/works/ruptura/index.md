@@ -9,6 +9,7 @@ author: ["Felipe Romagna"]
 #     relative: true
 
 ---
+![](ruptura.jpg)
 
 Em 2020, durante a pandemia, produzi um álbum com sintetizadores que representou uma mudança de trajetória pessoal na minha produção artística. Ele está disponível no BandCamp. 
 

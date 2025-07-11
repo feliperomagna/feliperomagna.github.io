@@ -8,6 +8,7 @@ tags: ["live electronics","openframeworks","performance", "supercollider", "fluc
 #     relative: true
 
 ---
+![](guerreira_das_pedras.jpeg)
 
 *Para saxofone, vídeo, dança e eletrônica ao vivo.*
 Borboletas se alimentam de lágrimas. Essa é uma das curiosidades que motivaram a construção da peça *Guerreira das Pedras*.Nosso objetivo foi dar voz aos sons que nos passam despercebidos. Com uso de *Machine Learning* buscamos a interação entre saxofone, dança e vídeo em uma espécie de modulação contínua entre os sujeitos e instrumentos da peça.

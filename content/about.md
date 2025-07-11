@@ -3,6 +3,7 @@ title: "About"
 layout: "data"
 ---
 
+
 Atualmente, em 2025, sou doutorando em Música pela UFMG. Minha pesquisa envolve uma ideia de apropriação técno-poética de ferramentas de IA para a criação musical. Tenho produzido alguns trabalhos artísticos que podem ser conferidos na seção Works. <br>
 
 Também tenho mestrado em Comunicação audiovisual pela Universidade Anhembi Morumbi, efetuando uma pesquisa de resgate do filme "Cidade Mulher (1936)" produzido pelo Humberto Mauro e Carmen Santos, e com trilha sonora original do Noel Rosa. Fiz uma reconstituição desse filme a partir de relatos de jornais e da música, já que o mesmo pegou fogo em um incêndio na produtora na década de 1950. <br>
@@ -13,3 +14,5 @@ Atuo como professor de música no Instituto Federal de Rondônia - IFRO desde 20
 
 No meu currículo [Lattes](http://lattes.cnpq.br/7456184811841367) é possível ter acesso a todas essas informações acadêmicas de maneira mais detalhada. 
 Se tiver interesse em projetos e pesquisas, pode me enviar um [e-mail](mailto:liperomagna47@hotmail.com) 
+
+![](picture.jpg)

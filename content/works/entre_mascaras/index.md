@@ -8,6 +8,7 @@ tags: ["live electronics","classical music","performance", "eurorack", "modular 
 #     relative: true
 
 ---
+![](entre_mascaras.png)
 
 É possível ser a mesma pessoa o tempo todo? É a partir desta provocação inspirada do filme Persona (1966), de Igmar Bergman, que surge a poética de Entre Máscaras. Um instrumento protagonista tem sua sonoridade fragmentada que ora modula, ora é modulada por sintetizadores e diversos processos de síntese sonora. Assim como no conceito de transdução desenvolvido pelo filósofo Simondon, a ação de modular é um ato contínuo de moldar, o que faz surgir novas sonoridades/personalidades.
 

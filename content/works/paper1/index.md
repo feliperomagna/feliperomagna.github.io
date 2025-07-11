@@ -9,6 +9,7 @@ author: ["Nívea Freitas", "Felipe Romagna", "Wagner Sander"]
 #     relative: true
 
 ---
+![](paper1.png)
 
 Concerto que visa experimentar sobre a mistura entre performance tradicional e contemporânea. O título “Da Terra à Lua” foi inspirado pelo livro homônimo do escritor Júlio Verne, de 1865. No espetáculo, obras musicais que tratam da relação humana com o terrestre e o celeste.
 
@@ -17,7 +18,6 @@ Piano: Wagner Sander
 Live Electronics: Felipe Romagna.
 Concepção artística: Nívea Freitas
 
-![](paper1.png)
 
 <div style="text-align: center;">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/efhXXiOvEgw?si=R5TnO_dd6SkPUln6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
