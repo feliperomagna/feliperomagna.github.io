@@ -6,11 +6,11 @@
     --header-height: 44px;
     --footer-height: 70px;
     --radius: 8px;
-    --theme: rgb(223, 231, 239);
+    --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
     --primary: rgb(51, 59, 80);
     --secondary: rgb(231, 233, 238);
-    --tertiary: rgb(255, 255, 255);
+    --tertiary: rgb(127, 136, 149);
     --gray: rgb(165, 165, 165);
     --content: rgb(235, 240, 245);
     --code-block-bg: rgb(49, 52, 64);
@@ -32,11 +32,11 @@
 
 .dark {
     --theme: rgb(80, 88, 101);
-    --entry: rgb(226, 228, 234);
+    --entry: rgb(255, 255, 255);
     --primary: rgb(255, 255, 255);
     --secondary: rgb(251, 253, 255);
     --tertiary: rgb(46, 46, 51);
-    --content: rgb(196, 196, 197);
+    --content: rgb(255, 255, 255);
     --code-block-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
