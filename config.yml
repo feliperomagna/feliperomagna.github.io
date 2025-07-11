@@ -54,9 +54,9 @@ params:
           enabled: true
           title: Felipe Romagna
           subtitle: "Sou músico, professor e pesquisador. Este espaço funciona como um repositório de trabalhos, pesquisas e também de textos que gosto de compartilhar a respeito de diversos assuntos. <br> *I'm a musician, teacher, and researcher. This space serves as a repository for my work, research, and also texts I like to share on various topics*"
-          imageUrl: "picture.jpg"
-          imageWidth: 160
-          imageHeight: 160
+          # imageUrl: "picture.jpg"
+          # imageWidth: 160
+          # imageHeight: 160
           buttons:
             - name: "Welcome"
               url: welcome/
