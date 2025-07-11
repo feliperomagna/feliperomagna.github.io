@@ -12,3 +12,5 @@ Por este motivo, desde 2023, muito por conta do doutorado, conheci o programa [O
 Resumindo, é neste sentido que resolvi criar essa parte no meu site, uma espécie de [jardim digital](https://sol2070.in/2022/06/Sobre-jardins-digitais), para que de uma certa forma pudesse ter tanto um repositório de ideias, mas também compartilhar isso com quem tiver interesse. 
 
 O que você vai encontrar neste *blog* é uma visão pessoal e muitas vezes não técnica (como nos casos de comentários de livros de romances), a respeito de diversos assuntos que gosto de compartilhar. 
+
+## Posts
