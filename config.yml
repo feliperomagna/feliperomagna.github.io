@@ -65,7 +65,7 @@ params:
             - name: Papers
               url: papers/
             - name: Blog
-              url: archive/
+              url: blog/
             - name: About
               url: about/
 
