@@ -14,5 +14,3 @@ Atuo como professor de música no Instituto Federal de Rondônia - IFRO desde 20
 
 No meu currículo [Lattes](http://lattes.cnpq.br/7456184811841367) é possível ter acesso a todas essas informações acadêmicas de maneira mais detalhada. 
 Se tiver interesse em projetos e pesquisas, pode me enviar um [e-mail](mailto:liperomagna47@hotmail.com) 
-
-![](picture.png)
