@@ -91,7 +91,7 @@ params:
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
     label:
       text: "Felipe Romagna"
       icon: favicon.ico
