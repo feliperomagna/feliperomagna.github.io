@@ -5,8 +5,8 @@ tags: ["live electronics","classical music","performance"]
 author: ["Nívea Freitas", "Felipe Romagna", "Wagner Sander"]
 cover:
     image: "da_terra_a_lua.png"
-    alt: "Vizualisation of an inner hedgehog"
-    relative: true
+    # alt: "Da Terra a Lua"
+    # relative: true
 
 ---
 
