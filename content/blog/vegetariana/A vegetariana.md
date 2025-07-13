@@ -1,7 +1,7 @@
 ---
 title: A Vegetariana
 author: Han Kang
-tags: "literatura"
+tags: ["literatura", "romance"]
 date: 2025-06-20
 ---
 ---

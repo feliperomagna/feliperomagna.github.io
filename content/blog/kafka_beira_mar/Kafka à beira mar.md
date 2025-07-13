@@ -1,7 +1,7 @@
 ---
 title: Kafka à beira-mar
 author: Haruki Murakami
-tags: "literatura"
+tags: ["literatura", "romance"]
 date: 2025-05-30
 ---
 ---

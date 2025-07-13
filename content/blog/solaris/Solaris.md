@@ -1,7 +1,7 @@
 ---
 title: Solaris
 author: Stanislaw Lem
-tags: "literatura"
+tags: ["literatura", "romance"]
 date: 2025-07-13
 ---
 ---

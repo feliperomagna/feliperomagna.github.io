@@ -1,10 +1,7 @@
 ---
 title: A Trama das Árvores
 author: Richard Powers
-tags:
-  - literatura
-  - romance
-  - site
+tags: ["literatura", "romance"]
 date: 2025-06-19
 ---
 ---
