@@ -25,6 +25,8 @@ A trama é bem envolvente, principalmente nas relações e diálogos entre Kelvi
 
 Pode ser um livro um pouco entediante para alguns em certos momentos, principalmente nas longas descrições de pesquisas e teorias técnicas que tentam explicar sobre as origens e acontecimentos de Solaris. 
 
+Por fim, uma das passagens que mais gostei é justamente uma reflexão de Kris já na parte final do livro. Ele levanta alguns questionamentos sobre a existência de deus, e também sobre um deus defectível. As reflexões e ideias que ele apresenta são maravilhosas. 
+
 
 ---
 # Citações
