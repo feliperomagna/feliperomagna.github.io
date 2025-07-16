@@ -81,7 +81,6 @@ Há um bilhão e meio de anos, vocês tomaram caminhos se-parados. Mas, mesmo ag
 
 - p. 194
 
-começou a se por. Porque dal, quando eu monter, voce pode receber a pensão."
 
 Ela pega a mão trêmula dele no escuro. A sensação é boa. como a que uma raiz deve ter quando, depois de séculos, encontra no subsolo outra raiz à qual se entrelaçar. Há cem mil espécies de amor, inventadas separadamente, cada uma mais engenhosa que a outra, e todas elas continuam fazendo coisas novas.
 
@@ -104,7 +103,7 @@ Eles se batizam com nomes da floresta nessa noite, sobre um cobertor de agulhas,
 
 - p. 289
 
-Ela fica de novo impres-sonada com o fato de que a suprema inteligência do mundo foicapaz de descobrir os cálculos e as leis da gravidade antes de saber para que servia uma flor.
+Ela fica de novo impressionada com o fato de que a suprema inteligência do mundo foi capaz de descobrir os cálculos e as leis da gravidade antes de saber para que servia uma flor.
 
 
 - p. 405
@@ -119,7 +118,7 @@ O mais novo habitante de Cascádia morde a isca. "Os melhores argumentos do mund
 
 - p. 458
 
-Eu não precisaria ser tão diferente para que o sol parecesse significar sol, para que o verde significasse verde, para que a ale-gria, o tédio, a angústia e a morte fossem o que são, sem a necessidade de qualquer clareza matadora, e então isso — isso, os crescentes anéis de luz, água e pedra - tomaria todo o meu eu, e seria todas as palavras de que eu preciso.
+Eu não precisaria ser tão diferente para que o sol parecesse significar sol, para que o verde significasse verde, para que a alegria, o tédio, a angústia e a morte fossem o que são, sem a necessidade de qualquer clareza matadora, e então isso — isso, os crescentes anéis de luz, água e pedra - tomaria todo o meu eu, e seria todas as palavras de que eu preciso.
 
 - p. 460
 

@@ -12,8 +12,6 @@ Editora: Alfaguara Brasil
 # Resumo
 
 
-Kafka à beira mar, do escritor Haruki Murakami, é um livro que traz vários elementos do realismo mágico incorporados na estória. 
-
 Sempre gosto de deixar claro que não sou um profissional da área, e também passo longe de tratar o meu gosto pela leitura como uma religião (cheio de regras, liturgias, análises técnicas, etc), acho que a ignorância me favorece, neste sentido, a desenvolver uma leitura livre de pré-conceitos e paradigmas a quem é especializado em literatura (mais ou menos o que faço quando analiso música, minha área de atuação). Já li muitas críticas a respeito do autor, e acredito também que o fato dele ter se tornado extremamente popular pode "enviesar" o teor dessas análises. 
 
 De qualquer forma, voltando para o livro, achei a leitura extremamente agradável e nenhum pouco entediante. Mesmo algumas passagens que achei desnecessárias eram divertidas de ler. 
@@ -23,5 +21,4 @@ Oshino é um caminhoneiro comum, que teve uma infância super problemática e se
 
 Como nem tudo é perfeito, existem diversas passagens que, para mim, soam mais como pornográficas do que eróticas. Em alguns momentos sinto que foram desnecessárias, porém não sei se essa minha impressão se dá por um aspecto cultural meu (brasileiro). Realmente não tenho conhecimento se os japoneses abordam esses temas com uma naturalidade maior do que nós. De qualquer forma não me senti incomodado por isso no livro. 
 
-Por fim, acho que vale muito a pena a leitura, e fiquei com interesse de ler outros livros do autor, já que esse foi o meu primeiro.
 
