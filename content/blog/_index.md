@@ -11,7 +11,7 @@ Para além de livros técnicos da minha área (música) adoro ler romances, fic�
 Por este motivo, desde 2023, muito por conta do doutorado, conheci o programa [Obsidian](https://obsidian.md). Além de ser um programa prático para efetuar notas, ele possui sistemas de links que conectam as suas ideias e fazem com que você realmente gere conhecimento com tudo o que você absorve (leituras de livros, jornais, artigos, reflexões, etc). 
 Resumindo, é neste sentido que resolvi criar essa parte no meu site, uma espécie de [jardim digital](https://sol2070.in/2022/06/Sobre-jardins-digitais), para que de uma certa forma pudesse ter tanto um repositório de ideias, mas também compartilhar isso com quem tiver interesse. 
 
-O que você vai encontrar neste *blog* é uma visão pessoal e muitas vezes não técnica (como nos casos de comentários de livros de romances), a respeito de diversos assuntos que gosto de compartilhar. 
+O que você vai encontrar neste *blog* é uma visão pessoal e muitas vezes não técnica (como nos casos de comentários de livros literários), a respeito de diversos assuntos que gosto de compartilhar. 
 
 ---
 ## Posts
