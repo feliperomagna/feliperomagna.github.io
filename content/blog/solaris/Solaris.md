@@ -15,7 +15,7 @@ Solaris é um livro de ficção científica escrito entre 1959 e 1960. Existem t
 
 Solaris é um planeta que órbita ao redor de dois sóis (um vermelho e outro azul), e possui um oceano de certa maneira inteligente, investigado por cientistas da terra durante muitos anos, possuindo inclusive uma estação fixa para pesquisas. A estória inicia justamente com Kris Kelvin, psicólogo, chegando na estação para colaborar com as investigações que acontecem por lá. Porém, assim que ele desembarca na estação, percebe que o seu principal parceiro e mentor morreu recentemente. Sem entender os motivos, ele começa uma espécie de investigação, porém existem muitos mistérios que os outros ocupantes da estação se recusam (ou não conseguem) esclarecer.
 
-O oceano, que de fato é um ser com um certo poder sobre os personagens e aquele planeta, consegue de alguma maneira invadir o subconsciente dos personagens e produzir, a partir das suas memórias, seres "reais" (naquele planeta), são uma espécie de clone de pessoas próximas aos habitantes da estação. 
+O oceano, que de fato é um ser com um certo poder sobre os personagens e aquele planeta, consegue de alguma maneira invadir o subconsciente dos personagens e produzir, a partir das suas memórias, seres "reais" (naquele planeta). São uma espécie de clone de pessoas próximas aos habitantes da estação. 
 
 A estória é repleta de dados que tentam de alguma maneira explicar todas as teorias desenvolvidas por pesquisadores na terra sobre o planeta e o oceano, mas nenhuma de fato consegue esclarecer os fenômenos que acontecem lá. 
 
@@ -25,7 +25,7 @@ A trama é bem envolvente, principalmente nas relações e diálogos entre Kelvi
 
 Pode ser um livro um pouco entediante para alguns em certos momentos, principalmente nas longas descrições de pesquisas e teorias técnicas que tentam explicar sobre as origens e acontecimentos de Solaris. 
 
-Por fim, uma das passagens que mais gostei é justamente uma reflexão de Kris já na parte final do livro. Ele levanta alguns questionamentos sobre a existência de deus, e também sobre um deus defectível. As reflexões e ideias que ele apresenta são maravilhosas. 
+Por fim, uma das passagens que mais gostei é uma reflexão de Kris, já na parte final do livro. Ele levanta alguns questionamentos sobre a existência de deus, e também sobre um deus defectível. As ideias que ele apresenta são maravilhosas. 
 
 
 ---
