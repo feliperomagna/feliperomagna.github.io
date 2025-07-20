@@ -27,23 +27,29 @@ O livro é sobre muita coisa. Como educar um filho em meio a um declínio social
 
 
 - p. 11
+
 Estranhamente, o manual de transtornos mentais não tem um nome para a compulsão de diagnosticar pessoas.
 
 - p. 12
+
 Vendo a medicina fracassar com meu filho, desenvolvi uma teoria excêntrica: A vida é algo que devemos parar de corrigir.
 Meu menino era um universo em miniatura que eu jamais poderia compreender totalmente. Cada um de nós é um experimento, e nem ao menos sabemos o que esse experimento está testando.
 Minha esposa saberia como falar com os médicos. Ninguém é perfeito, ela gostava de dizer. Mas, olha, quanta beleza há em nossa imperfeição.
 
 - p. 133
+
 O Decoded Neurofeedback o estava alterando, assim como a Ritalina teria feito. Mas até aí, tudo no mundo o estava alterando. Cada palavra agressiva de um amigo durante o almoço, cada clique em sua fazendinha virtual, cada espécie que ele pintava, cada minuto de cada vídeo online, todas as histórias que ele lia de noite e todas as outras que eu contava a ele: não havia um "Robin", não havia um único peregrino naquela procissão de versões, para que ele pudesse continuar sempre sendo o mesmo que. Todo esse cortejo caleidoscópico de versões, marchando pelo tempo e espaço, era em si uma obra em andamento.
 
 - p. 149
+
  Num só golpe, Inga Alder abriu a mente otimizada com feedbacks do meu filho para uma verdade que eu mesmo nunca tinha parado para pensar: o mundo é um experimento sobre criar validade, e convicção é sua única prova.
 
 - p. 159
+
 Nós vivemos suspensos entre o amor e o ego.
 
 - p. 276
+
 Como é que a gente ia reconhecer os alienígenas? A gente nem reconhece os pássaros. 
 
 - p. 321
@@ -59,13 +65,16 @@ Aquele, lá. Ele apontou. O que tá acontecendo naquele?
 Eu disse a ele. "Naquele, as pessoas podem se dividir ao meio e voltar a crescer como duas pessoas separadas, com todas as suas memórias intactas, Mas só uma vez na vida."
 
 - p. 324
+
 Isso é a vida, disse ela. Se eu pudesse ter isso comigo sempre...
 Uma diferença tão pequena, entre o sempre e o uma vez.
 
 - p. 329
+
 Havia um planeta que não conseguía entender onde estava todo mundo. Ele morreu de solidão, Isso aconteceu bilhões de vezes só na nossa galáxia.
 
 - p. 333
+
 Então um dia meu filho está lá, dentro da minha cabeça, tão real quanto a vida. Minha esposa também, ainda dentro dele.
 O que eles sentiam na época, eu sinto agora. O que é maior, o espaço lá fora ou o aqui dentro?
 Ele não diz nada. Não precisa. Sei o que ele quer de mim. Ele só quer ver o que tem lá fora. A luz viaja a trezentos mil quilômetros por segundo. Leva noventa e três bilhões de anos para ir de uma extremidade do espaço até a outra, passando por buracos ne-gros, pulsares e quasares, estrelas de nêutrons e préons e quarks, estrelas com linhas metálicas e estrelas retardatárias azuis, sistemas binários e sistemas estelares triplos, aglomerados globulares e hipercompactos, galáxias coronais, marés galácticas, halos ga-lácticos, nebulosas de reflexão e de vento de pulsar, discos estela-res, interestelares e intergalácticos, matéria escura e energia es-cura, poeira cósmica, filamentos e vazios, todos engendrados por leis reduzidas a vibrações bem menores do que as menores unidades para as quais temos nomes. O universo é uma coisa viva e meu filho quer que eu dê uma olhada por aí enquanto ainda há tempo.
