@@ -2,7 +2,7 @@
 title: Admirável Mundo Novo
 author: Aldous Huxley
 tags: ["literatura", "romance"]
-date: 2025-07-28
+date: 2025-03-28
 ---
 ---
 Tradução: Fábio Fernandes
@@ -23,7 +23,7 @@ A estória traz uma excelente reflexão sobre autoritarismo, e também de aliena
 
 Um livro que é distópico, mas nem tanto. 
 
-# Citações e comentários
+# Citações
 
 Na próxima geração, acredito que os governantes do mundo descobrirão que o condicionamento infantil e a marco-hipnose são mais eficientes, como instrumentos de governo, que clubes e prisões, e que o desejo de poder pode ser tão completamente satisfeito sugerindo-se às pessoas que amem sua servidão quanto se elas fossem forçadas a obedecer na base de chicotes e pontapés.
 
