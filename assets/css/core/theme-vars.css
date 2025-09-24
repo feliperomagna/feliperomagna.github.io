@@ -9,7 +9,7 @@
     --theme: rgb(255, 255, 255);
     --entry: rgb(224, 224, 224);
     --primary: rgb(51, 59, 80);
-    --secondary: rgb(104, 110, 123);
+    --secondary: rgb(150, 150, 150);
     --tertiary: rgb(255, 255, 255);
     --gray: rgb(165, 165, 165);
     --content: rgb(64, 72, 82);
@@ -17,7 +17,7 @@
     --code-bg: rgb(175, 180, 193);
     --border: rgb(121, 128, 147);
     --darkcolor: #c2c6d0;
-    --lightcolor: #aab3be;
+    --lightcolor: #bfbfbf;
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
@@ -33,10 +33,10 @@
 .dark {
     --theme: rgb(80, 88, 101);
     --entry: rgb(255, 255, 255);
-    --primary: rgb(156, 158, 160);
+    --primary: rgb(161, 163, 165); /* titulos e cabecalhos */
     --secondary: rgb(80, 88, 101);
     --tertiary: rgb(46, 46, 51);
-    --content: rgb(255, 255, 255);
+    --content: rgb(255, 255, 255); /* textos */
     --code-block-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
