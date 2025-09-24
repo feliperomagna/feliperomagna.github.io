@@ -18,9 +18,9 @@ menu:
         - name: Papers
           url: papers/
           weight: 4 
-        - name: Blog
-          url: blog/
-          weight: 6
+        # - name: Blog
+          # url: blog/
+          # weight: 6
         - name: About
           url: about/
         - name: Welcome
