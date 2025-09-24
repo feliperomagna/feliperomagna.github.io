@@ -64,8 +64,6 @@ params:
               url: works/
             - name: Papers
               url: papers/
-            - name: Blog
-              url: blog/
             - name: About
               url: about/
 
